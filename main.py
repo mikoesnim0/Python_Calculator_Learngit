@@ -27,7 +27,10 @@ class Calclator(QWidget):
         vbox.addWidget(self.te1)
         vbox.addStretch(1)
         vbox.addLayout(hbox)
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
         
         self.setLayout(vbox)
         # self.setLayout(hbox)
