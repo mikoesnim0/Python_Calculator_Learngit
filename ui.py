@@ -1,7 +1,4 @@
-import sys
-from ui import View
-from ctrl import Control
-from PyQt5.QtWidgets import (QApplication, QWidget, QPushButton, QVBoxLayout, QMessageBox,
+from PyQt5.QtWidgets import (QWidget, QPushButton, QVBoxLayout, QMessageBox,
                              QPlainTextEdit, QHBoxLayout)
 from PyQt5.QtGui import QIcon
 
